@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/UserGameStartingGameInfo_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/DatabaseUtilities/DatabaseUtilites.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/PlotSize_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/UserGameStartingGameInfo.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/UserBusinessInfotmation_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/BusinessInformation.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/DaileyExpanse_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/Plot.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/EstateTransactions.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/BusinessCapasity.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/UserGameInformation.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/User.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/PlotSize.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/AuthorizedGUI.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/RegistarGUI.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/Rental_Transactions.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/UserGameInformation_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/login.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/ER_diagram.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/PlayingFieldGUI.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/UserWorkingPlace_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/DaileyExpanse.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/Plot_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/EstateTransactions_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/Rental_Transactions_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/BusinessIncomeInfo_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/login_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/Sales_Transactions.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/User_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/UserWorkingPlace.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/GUI.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/UserBusineesInformation.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/entity/BusinessIncomeInfo.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/BusinessInformation_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/BusinessCapasity_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/manager/Sales_Transactions_Manager.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/MAİN.java</file>
+            <file>file:/C:/Users/izemd/OneDrive/Masaüstü/Meta_Land_Company/src/com/Meta_Land/Game/GUI/Date_Amount_Transactions.java</file>
+        </group>
+    </open-files>
+</project-private>
